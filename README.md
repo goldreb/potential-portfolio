@@ -3,8 +3,7 @@ An updated version of my Portfolio with added javascript, resume, and link to gi
 
 
 ## Preview 
-![alt text][portfolio]
-[porfolio]: https://drive.google.com/file/d/12hRnQ5WOSSqcFnXii_vVqHL7omXH8LYV/view "portfolio"
+[![Portfolio](Assets\images\Goldiluck_R_Portfolio.mp4)]: (https://drive.google.com/file/d/12hRnQ5WOSSqcFnXii_vVqHL7omXH8LYV/view "portfolio")
 
 
 ## Future Improvements
