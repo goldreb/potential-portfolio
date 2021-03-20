@@ -1,0 +1,154 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto, sans-serif;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+p {
+    color: #1d1c1c;
+    font-family: Roboto, sans-serif;
+}
+.colorLetter {
+    color: gold;
+    font-size: xx-large;
+}
+
+/* Heading */
+.big-heading {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    color:#350b40;
+}
+
+
+.container-fluid {
+    padding: 7% 15%;
+
+}
+
+.colored-section {
+    background-color: #94b5c0;
+}
+
+.white-section {
+    background-color:#fff;
+}
+
+
+/* navigation bar */
+
+.navbar-brand {
+    font-family: Merriweather, sans-serif;
+    font-weight: 300;
+}
+
+.nav-item {
+    padding: 0 16px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+}
+
+/* buttons */
+
+.contact-btn {
+    margin: 2% 2% 2% 0;
+}
+
+/* title section */
+
+#title .container-fluid {
+    padding: 3% 5%;
+    text-align: left;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(10deg);
+    position: absolute;
+    right: 30%;  
+}
+
+/*skills/hobbies  */
+
+#features {
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+
+}
+
+.feature-title {
+    line-height: 1.5rem;
+  }
+
+.feature-box {
+    padding: 5%;
+  }
+  
+li {
+    text-align: left;
+}
+.icon {
+    color: #350b40;
+    margin-bottom: 1rem;
+    
+   
+}
+h3.feature-title, .contactMe {
+    color: #393e46;
+}
+
+.icon:hover {
+    color: #ee99a0;
+}
+
+/* projects */
+
+#projects {
+    background-color: #d3e0dc;
+}
+
+.project-text {
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #393e46;
+}
+
+.project-image {
+    width: 100%;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+/* footer */
+
+.social-icon {
+    margin: 20px 10px;
+}
+.copyright {
+    font-family: Merriweather, sans-serif;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    
+    }
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
