@@ -16,3 +16,7 @@ An updated version of my Portfolio with added javascript, resume, and link to gi
 
 Need to improve my README file.
 Need to learn and improve screencastify
+
+## Future Future Improvements
+
+There are alot to work on with and i will adjust as a go along with the bootcamp. For now, click on the skills => School Project to see more of my skills.
